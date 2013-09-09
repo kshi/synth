@@ -1,0 +1,9 @@
+Synth: Scrolls as you play (PennApps Fall 2013, Top 20)
+
+Instrument players! Ever wish you didn't have to turn pages while playing? Synth listens to you and scrolls along as you play. No page turning required.
+
+Run setAudioSource.m to find the ID of your input audio source, set micID in synth.m to that, and then run synth.m
+
+lotr.mat contains a sample sheet music along with a synthesized wav
+
+And yes, it is completely written in MATLAB. 
